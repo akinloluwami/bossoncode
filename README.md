@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bossoncode" alt="bossoncode" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [akinkunmii.com](akinkunmii.com)
+- 👨‍💻 Visit my website [akinkunmii.com](akinkunmii.com)
 
 - 📝 I regularly write articles on [bossoncode.hashnode.com](bossoncode.hashnode.com)
 

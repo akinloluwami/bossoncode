@@ -1,4 +1,3 @@
-<div style="disply:flex; flex-direction:column; align-items:center; justify-content:center;">
 <h1 align="center">Hi 👋, I'm Akinkunmi</h1>
 <h3 align="center">A passionate frontend engineer</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bossoncode&" alt="bossoncode" /></p>
@@ -69,10 +68,3 @@
       <a href="https://www.npmjs.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="npm" width="100" height="40"/> </a>
 </div>
 <hr/>
-
-
-
-
-
-
-</div>

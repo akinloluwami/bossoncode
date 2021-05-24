@@ -67,6 +67,7 @@
       <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://i.pinimg.com/originals/5e/4f/22/5e4f22c8c8d52039b35a38db206cd465.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a>
 </div>
+<hr/>
 <h4>Others</h4>
 <div style="display: flex;">
       <a href="https://www.blender.org/" target="_blank"> <img src="https://subak.ovh/content/images/2018/07/blender.png" alt="blender" width="50" height="40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">

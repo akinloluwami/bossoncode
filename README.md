@@ -1,3 +1,4 @@
+<div style="disply:flex; flex-direction:column; align-items:center; justify-content:center;">
 <h1 align="center">Hi 👋, I'm Akinkunmi</h1>
 <h3 align="center">A passionate frontend engineer</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bossoncode&" alt="bossoncode" /></p>
@@ -73,3 +74,5 @@
 
 
 
+
+</div>

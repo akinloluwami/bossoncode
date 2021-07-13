@@ -3,9 +3,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bossoncode&" alt="bossoncode" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bossoncode&label=Profile%20views&color=0e75b6&style=flat" alt="bossoncode" /> </p>
 
-- 👨‍💻 Visit my website [akinkunmii.com](akinkunmii.com)
+- 👨‍💻 Visit my website [akinkunmi.dev](akinkunmi.dev)
 
-- 📝 I regularly write articles on [bossoncode.hashnode.com](bossoncode.hashnode.com)
+- 📝 I write articles on [bossoncode.hashnode.com](bossoncode.hashnode.com)
 
 - 📫 How to reach me **akinkunmiisrael41@gmail.com**
 
@@ -45,7 +45,7 @@
 <hr/>
 <h4>Testing</h4>
 <div style="display: flex;">
-      <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>  
+      <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </div>
 
 <hr/>

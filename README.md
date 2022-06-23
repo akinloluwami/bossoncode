@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akinkunmi</h1>
-<h3 align="center">A passionate frontend engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bossoncode&" alt="bossoncode" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bossoncode&label=Profile%20views&color=0e75b6&style=flat" alt="bossoncode" /> </p>
 

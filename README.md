@@ -8,3 +8,5 @@
 - 📫 How to reach me **akinkunmiisrael41@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bossoncode&show_icons=true&locale=en&layout=compact" alt="bossoncode" /></p>
+<hr/>
+<img src="https://activity-graph.herokuapp.com/graph?username=bossoncode&bg_color=181824&color=14b8a6&line=22c55e&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />

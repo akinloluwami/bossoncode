@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bossoncode&label=Profile%20views&color=0e75b6&style=flat" alt="bossoncode" /> </p>
 
-- 👨‍💻 Visit my website [akinkunmi.dev](akinkunmi.dev)
+- 👨‍💻 Website: [akinkunmi.dev](akinkunmi.dev)
 
-- 📫 How to reach me **akinkunmiisrael41@gmail.com**
+- 📫 Email: **akinkunmiisrael41@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bossoncode&show_icons=true&locale=en&layout=compact&bg_color=181824&color=14b8a6&line=22c55e&point=14b8a6&area_color=181824&area=true&hide_border=true" alt="bossoncode" /></p>
 <hr/>
